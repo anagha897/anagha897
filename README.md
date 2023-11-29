@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anagha</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on **GradeBook React App**
-
-- 🌱 I’m currently learning **Reactjs**
-
 <p align="left">
 </p>
 
